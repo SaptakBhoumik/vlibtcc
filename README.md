@@ -3,7 +3,7 @@ V wrapper for libtcc
 
 Example usage 
 
-```
+```V
 import vlibtcc
 type Func = fn() int
 s:=vlibtcc.tcc_new()
